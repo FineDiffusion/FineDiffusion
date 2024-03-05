@@ -35,7 +35,7 @@ The trained FineDiffusion models can be downloaded here :
 | ------------------------------------------------------------------------------------------------------------ | ---------------- | ------ | ----- |
 | [FineDiffusion-iNat](https://drive.google.com/file/d/1BdwaIgSrAhI6qSuJkkSOtVrVNh-puNwC/view?usp=sharing)     | 256x256          | 9.776  | 0.721 |
 | [FineDiffusion-iNat-512](https://drive.google.com/file/d/1EjMxlp3GbBkiNf9ObtTzT7aiAwc3qoDf/view?usp=sharing) | 512x512          | 9.490  | 0.723 |
-| [FineDiffusion-VegFru](Coming soon ...)                                                                      | 256x256          | 12.382 | 0.667 |
+| [FineDiffusion-VegFru](https://drive.google.com/file/d/1YZm83UnNbYdM-sw1vBcacc8DUa7r7uD_/view?usp=sharing)                                                                      | 256x256          | 12.382 | 0.667 |
 
 ## Sampling FineDiffusion
 
