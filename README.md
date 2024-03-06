@@ -1,6 +1,6 @@
 ## FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes
 
-[Paper](http://arxiv.org/abs/2212.09748) | [Project Page](https://www.wpeebles.com/DiT) 
+[Paper](https://arxiv.org/abs/2402.18331) | [Project Page](https://finediffusion.github.io/) 
 
 ![DiT samples](visuals/main_pic.png)
 
